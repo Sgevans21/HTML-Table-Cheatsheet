@@ -1,0 +1,40 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: aliceblue;
+}
+
+table {
+    border: 2px solid royalblue;
+    width: 650px;
+    margin: 0 auto;
+    display: table;
+    box-sizing: border-box;
+    text-align: start;
+
+}
+
+h1 {
+    margin: 50px auto;
+    text-align: center;
+    color: navy;
+}
+
+h2 {
+    margin: 30px auto;
+    text-align: center;
+    color: steelblue;
+}
+
+td, th {
+    border-top: 1px solid royalblue;
+}
+
+.code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lemonchiffon;
+}
+
+.header {
+    background-color: royalblue;
+    color: aliceblue;
+}
